@@ -1,6 +1,6 @@
 # 🚩 Maršál a Špión
 
-Digitální implementace deskové hry Maršál a Špión tak, jak se to hrála za starých časů ve školní družině.
+Digitální implementace deskové hry Maršál a Špión tak, jak se to hrálo za starých časů ve školní družině.
 ---
 
 ## 🛠️ Jak spustit lokálně
